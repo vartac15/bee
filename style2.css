@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 950px;
+    margin: 30px auto;
+}
+
+header {
+background-color: gold;
+}
+
+.container {
+    display: flex;
+}
+
+main {
+    width: 660px;
+    padding: 20px;
+}
+
+.right {
+    width: 300px;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    width: 600px;
+}
+
+nav a {
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font: 15px Arial;
+}
+
+th {
+    background-color: gray;
+}
